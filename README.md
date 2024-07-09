@@ -6,4 +6,6 @@ The *My Content Engineering Specialist Project* is a collection of useful conver
 
 See the [My Content Engineering Specialist on ChatGPT](https://chatgpt.com/g/g-SA2LB9tLz-my-content-engineering-specialist) link to try the GPT.
 
+Please [add an enhancement suggestion](https://github.com/thospfuller/my-content-engineering-specialist/issues) if you have ideas for how to improve this GPT.
+
 The [Awesome Search Engine Optimization Ideas](https://github.com/thospfuller/awesome-search-engine-optimization) contains many helpful resources for learning about SEO.
