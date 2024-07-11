@@ -9,3 +9,37 @@ See the [My Content Engineering Specialist on ChatGPT](https://chatgpt.com/g/g-S
 Please [add an enhancement suggestion](https://github.com/thospfuller/my-content-engineering-specialist/issues) if you have ideas for how to improve this GPT.
 
 The [Awesome Search Engine Optimization Ideas](https://github.com/thospfuller/awesome-search-engine-optimization) contains many helpful resources for learning about SEO.
+
+The following commands are currently available in this GPT:
+
+## Generate LSI Keywords:
+
+Generate [number] LSI keywords for "[your keyword]"
+
+## Generate Article Titles:
+
+Generate [some number] [top, middle, or bottom] of funnel article title examples targeting the keyword "[some keyword]"
+
+## Generate Meta Descriptions:
+
+Generate [some number] [top, middle, or bottom] of funnel article meta description examples targeting the keyword "[some keyword]"
+
+## List Schemas:
+
+List the schemas that should be applied to the following URL: [some URL]
+
+## Suggestions for Readability:
+
+List [some number] suggestions regarding how I can improve the readability of the article at this URL [some URL] and include specific examples.
+
+## Bold Sentences for Readability:
+
+Suggest [some number or any] sentences in the article at this URL [some URL] that should be placed in bold for the purposes of improving readability and the ability to skim the document.
+
+## Provide Readability Score:
+
+Provide a readability score between zero (very hard) to ten (very easy) for the article at the URL [some URL]
+
+## Review Awkward Sentences:
+
+Review the following article and identify any awkward sentences: [some URL] If you find an awkwardly written sentence provide the sentence and score it on a range of zero (not awkward) to ten (very awkward). Finally, provide an example regarding how the awkwardness in the sentence can be addressed, along with a new score pertaining to this solution.
