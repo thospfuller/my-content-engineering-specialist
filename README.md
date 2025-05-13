@@ -4,7 +4,7 @@
 
 The *My Content Engineering Specialist Project* is a collection of useful conversations captured in a GPT that focus on various aspects of Digital Marketing including Content Engineering, Search Engine Optimization (SEO), and copywriting.
 
-See the [My Content Engineering Specialist on ChatGPT](https://chatgpt.com/g/g-SA2LB9tLz-my-content-engineering-specialist) link to try the GPT.
+See the [My Content Engineering Specialist on ChatGPT](https://mces.thospfuller.com/) link to try the GPT.
 
 Please [add an enhancement suggestion](https://github.com/thospfuller/my-content-engineering-specialist/issues) if you have ideas for how to improve this GPT.
 
